@@ -23,8 +23,10 @@ Um repositório abrangente para o Daybreak Online, contendo diversas ferramentas
 
 ### 1. Instalação
 
-- Instale o IIS. ![image](https://github.com/thebitnomad/Daybreak-Online-AIO/assets/134553365/cd2687cf-a29e-4678-b8c7-22d645fdb12d)
+- Instale o IIS no seu Windows.
+- Suba a pasta `masterweb`.
 - Habilite a opção "Aplicativos de 32 bits = True".
+![image](https://github.com/thebitnomad/Daybreak-Online-AIO/assets/134553365/cd2687cf-a29e-4678-b8c7-22d645fdb12d)
 - Importe os seguintes bancos de dados para o MySQL 5.5: `master.sql`, `daybreak_104001`, `daybreaklog_104001`.
 - Altere as configurações do arquivo `masterweb/App_Data/MasterSqlMap.config` com seu IP interno, usuário e senha.
   ![image](https://github.com/thebitnomad/Daybreak-Online-AIO/assets/134553365/0ceb9f26-da01-40e5-8cc6-7399cafdc20c)
