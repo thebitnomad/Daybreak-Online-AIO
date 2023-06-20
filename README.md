@@ -31,6 +31,7 @@ Um repositório abrangente para o Daybreak Online, contendo diversas ferramentas
 - Altere as configurações do arquivo `masterweb/App_Data/MasterSqlMap.config` com seu IP interno, usuário e senha.
   ![image](https://github.com/thebitnomad/Daybreak-Online-AIO/assets/134553365/0ceb9f26-da01-40e5-8cc6-7399cafdc20c)
 - Altere a senha do usuário `ivangod` no banco de dados `master`, utilizando uma criptografia MD5. Você pode utilizar uma ferramenta como [MD5HashGenerator](https://www.md5hashgenerator.com/).
+- Senha = (User+Senha) exemplo; usuario é ivangod, senha é 123test, logo, o md5 será `3377e95f44105286e6a5b63291a96d93` (ivangod123test)
 
 ### 2. Configuração do Servidor
 
