@@ -41,6 +41,21 @@ Um repositório abrangente para o Daybreak Online, contendo diversas ferramentas
 - A string se resume em IP "Convertido em decimal" / PORTA / PORTA. Você deve alterar apenas o IP, apontando para o GMTools. Utilize uma ferramenta como [IPAddressGuide](https://www.ipaddressguide.com/ip) para converter o IP para decimal. Por exemplo, o IP `127.0.0.1` convertido para decimal é `2130706433`, portanto, a string completa será `2130706433:9999:81920`.
 
 
+### 🙏 Apoie o Projeto
+
+Se você encontrou este projeto útil e deseja apoiar seu desenvolvimento contínuo, considere fazer uma doação.
+
+Qualquer valor é bem-vindo e apreciado!
+
+Endereço da Carteira (BSC/ETHEREUM/POLYGON): `0x9EEEAF03f3e3993f5C9b1Be69df3Ca94120f2eF1`
+
+**Observação**: Aceitamos doações em qualquer rede Ethereum. Sinta-se à vontade para escolher a rede que for mais conveniente para você.
+
+Agradecemos antecipadamente por seu generoso apoio. Com sua ajuda, podemos continuar aprimorando e expandindo o projeto!
+
+
+
+
 
 
 
