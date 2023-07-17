@@ -49,7 +49,7 @@ Qualquer valor é bem-vindo e apreciado!
 
 Endereço da Carteira (BSC/ETHEREUM/POLYGON): `0x9EEEAF03f3e3993f5C9b1Be69df3Ca94120f2eF1`
 
-**Observação**: Aceitamos doações em qualquer rede Ethereum. Sinta-se à vontade para escolher a rede que for mais conveniente para você.
+**Observação**: Aceitamos doações em qualquer rede. Sinta-se à vontade para escolher a rede que for mais conveniente para você.
 
 Agradecemos antecipadamente por seu generoso apoio. Com sua ajuda, podemos continuar aprimorando e expandindo o projeto!
 
