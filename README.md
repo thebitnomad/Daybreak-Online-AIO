@@ -27,8 +27,13 @@ Um repositório abrangente para o Daybreak Online, contendo diversas ferramentas
 - Suba a pasta `masterweb`.
 - Habilite a opção "Aplicativos de 32 bits = True".
 ![image](https://github.com/thebitnomad/Daybreak-Online-AIO/assets/134553365/cd2687cf-a29e-4678-b8c7-22d645fdb12d)
+![image](https://github.com/thebitnomad/Daybreak-Online-AIO/assets/134553365/29bf096d-9821-4e18-9637-af948f4ecd33)
 - Importe os seguintes bancos de dados para o MySQL 5.5: `master.sql`, `daybreak_104001`, `daybreaklog_104001`.
 - Altere as configurações do arquivo `masterweb/App_Data/MasterSqlMap.config` com seu IP interno, usuário e senha do banco de dados.
+`<dataSource name="master" connectionString="Server=127.0.0.1;Port=3306;Database=master;Uid=root;Pwd=password;Allow User Variables=True;Character Set=utf8;" />`
+- Copie a Connection String a partir do " `Server=127.0.0.1;Port=3306;Database=master;Uid=root;Pwd=password;Allow User Variables=True;Character Set=utf8;`
+- Utilize o [dbcrypto](https://drive.google.com/file/d/1ws-09pjo5N7151SdwjtFdQmqnTkEqZz-/view?usp=drive_link) para criptografar a Connection String.
+- Altere a linha DBConnectionString do arquivo `masterconfig.xml` utilizando a Connection String criptografada.
   ![image](https://github.com/thebitnomad/Daybreak-Online-AIO/assets/134553365/0ceb9f26-da01-40e5-8cc6-7399cafdc20c)
 - Altere a senha do usuário `ivangod` no banco de dados `master`, utilizando uma criptografia MD5. Você pode utilizar uma ferramenta como [MD5HashGenerator](https://www.md5hashgenerator.com/).
 - Senha = (User+Senha) exemplo; usuario é ivangod, senha é 123test, logo, o md5 será `3377e95f44105286e6a5b63291a96d93` (ivangod123test)
@@ -43,7 +48,7 @@ Um repositório abrangente para o Daybreak Online, contendo diversas ferramentas
 
 ### 🙏 Apoie o Projeto
 
-Se você encontrou este projeto útil e deseja apoiar seu desenvolvimento contínuo, considere fazer uma doação.
+Considere fazer uma doação.
 
 Qualquer valor é bem-vindo e apreciado!
 
