@@ -27,6 +27,7 @@ Um repositório abrangente para o Daybreak Online, contendo diversas ferramentas
 - Suba a pasta `masterweb`.
 - Habilite a opção "Aplicativos de 32 bits = True".
 ![image](https://github.com/thebitnomad/Daybreak-Online-AIO/assets/134553365/cd2687cf-a29e-4678-b8c7-22d645fdb12d)
+- Altere o `modo pipeline gerenciado` para Clássico
 ![image](https://github.com/thebitnomad/Daybreak-Online-AIO/assets/134553365/2b94e8a4-2318-4b79-af94-18cf96a64986)
 
 - Importe os seguintes bancos de dados para o MySQL 5.5: `master.sql`, `daybreak_104001`, `daybreaklog_104001`.
