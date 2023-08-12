@@ -43,7 +43,7 @@ Um repositório abrangente para o Daybreak Online, contendo diversas ferramentas
 - Suba o VMWare `erating`.
 - Suba o VMWare `GameServer`.
 - Vá até o diretório `/sdetector/sat_detector.cfg` na maquina do GameServer. 
-- A string se resume em IP "Convertido em decimal" / PORTA / PORTA. Você deve alterar apenas o IP, apontando para o GMTools. Utilize uma ferramenta como [IPAddressGuide](https://www.ipaddressguide.com/ip) para converter o IP para decimal. Por exemplo, o IP `127.0.0.1` convertido para decimal é `2130706433`, portanto, a string completa será `2130706433:9999:81920`.
+- A string se resume em IP "Invertido e Convertido em decimal" / PORTA / PORTA. Você deve alterar apenas o IP, apontando para o GMTools. Utilize uma ferramenta como [IPAddressGuide](https://www.ipaddressguide.com/ip) para converter o IP para decimal. Por exemplo, o IP `192.168.18.6` invertido; `6.18.168.192` convertido para decimal é `101886144`, portanto, a string completa será `101886144:9999:81920`.
 
 
 ### 🙏 Apoie o Projeto
