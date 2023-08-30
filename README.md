@@ -1,6 +1,8 @@
 # 💥 Daybreak-Online- All In One Repo
-
 Um repositório abrangente para o Daybreak Online, contendo diversas ferramentas, bancos de dados e arquivos necessários para configurar o servidor.
+
+## App preview
+![image](https://github.com/thebitnomad/Daybreak-Online-AIO/assets/134553365/c67e4032-a153-419c-9692-4dfb16855ed0)
 
 ## ℹ️ Recursos Disponíveis
 
