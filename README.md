@@ -4,6 +4,42 @@ Um repositório abrangente para o Daybreak Online, contendo diversas ferramentas
 ## App preview
 ![image](https://github.com/thebitnomad/Daybreak-Online-AIO/assets/134553365/c67e4032-a153-419c-9692-4dfb16855ed0)
 
+
+## 💥 Contribuição da Comunidade 💥
+
+Este tutorial, criado por um de nossos jogadores dedicados, está disponível no YouTube e oferece um guia passo a passo abrangente.
+
+### Tutorial: Como Criar Seu Próprio Servidor DayBreak Online
+
+Clique no link abaixo para assistir ao tutorial:
+
+[Assista ao Tutorial no YouTube](https://www.youtube.com/watch?v=Ug1bAVg5Iv8)
+
+Este tutorial cobre:
+- Configuração do ambiente do servidor
+- Instalação do software necessário
+- Configuração das definições do servidor
+- Lançamento do servidor e conexão dos jogadores
+
+Recomendo seguir este tutorial se você é novo na configuração de servidores de jogos ou precisa de um guia detalhado.
+
+## Começando
+
+Para começar a configurar seu próprio servidor, consulte as seguintes seções neste repositório:
+- [Guia de Instalação e Configuração]([docs/installation.md](https://github.com/Ronisilvadev/Daybreak-server-free))
+- [FAQ](https://github.com/thebitnomad/Daybreak-Online-AIO/issues)
+
+Se você encontrar qualquer problema ou tiver dúvidas, sinta-se à vontade para abrir uma issue ou participar das discussões da comunidade.
+
+## Contribuindo
+
+Agradecemos contribuições da comunidade! Se você tiver melhorias, correções de bugs ou novas funcionalidades para propor, sinta-se à vontade para enviar um pull request ou abrir uma issue.
+- [Comunidade Discord](https://discord.gg/AFyAJwefQ4)
+
+Obrigado por fazer parte da comunidade DayBreak Online!
+
+
+
 ## ℹ️ Recursos Disponíveis
 
 - [DayBreak GMTools IIS APP](https://github.com/thebitnomad/DayBreak-GMTools)
