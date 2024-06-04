@@ -26,7 +26,7 @@ Recomendo seguir este tutorial se você é novo na configuração de servidores 
 ## Começando
 
 Para começar a configurar seu próprio servidor, consulte as seguintes seções neste repositório:
-- [Guia de Instalação e Configuração]([docs/installation.md](https://github.com/Ronisilvadev/Daybreak-server-free))
+- [Guia de Instalação e Configuração](https://github.com/Ronisilvadev/Daybreak-server-free)
 - [FAQ](https://github.com/thebitnomad/Daybreak-Online-AIO/issues)
 
 Se você encontrar qualquer problema ou tiver dúvidas, sinta-se à vontade para abrir uma issue ou participar das discussões da comunidade.
